@@ -12,6 +12,10 @@ public class Result {
         return (RE+SDA+SQAT+SEAM+FM)/4;
     }
 
+    void myTest()
+    {
+        
+    }
   
     int getTotal()
     {
@@ -30,9 +34,5 @@ public class Result {
      		return;
 	}
 	
-    void myTest()
-    {
-        
-    }
 
 }
